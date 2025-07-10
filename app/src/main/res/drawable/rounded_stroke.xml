@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Radius sudut -->
+    <corners android:radius="16dp" />
+
+    <solid android:color="#1AFFFFFF" /> <!-- 1A = 10% opacity putih -->
+
+
+    <!-- Stroke (garis tepi) -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Ubah warna stroke sesuai kebutuhan -->
+
+</shape>
